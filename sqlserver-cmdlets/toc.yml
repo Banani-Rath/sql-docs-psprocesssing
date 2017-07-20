@@ -1,2 +1,3 @@
 - name: sqlserver-cmdlets
-  tocHref: /sqlserver-cmdlets/toc.yml
+  tocHref: /sqlserver-cmdlets/
+  topicHref: /sqlserver-cmdlets/index
