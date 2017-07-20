@@ -37,7 +37,7 @@
   "need_generate_pdf_url_template": false,
   "dependent_packages": [
     {
-      "path_to_root": "azurecli",
+      "path_to_root": "_dependentPackages/azurecli",
       "id": "opbuild.templates.azurecli",
       "version": "latest",
       "nuget_feed": "https://www.myget.org/F/op/api/v2"
